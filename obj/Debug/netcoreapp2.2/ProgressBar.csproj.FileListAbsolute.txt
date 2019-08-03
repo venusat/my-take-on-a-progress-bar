@@ -1,0 +1,11 @@
+C:\Users\vikto\coding\ProgressBar\bin\Debug\netcoreapp2.2\ProgressBar.deps.json
+C:\Users\vikto\coding\ProgressBar\bin\Debug\netcoreapp2.2\ProgressBar.runtimeconfig.json
+C:\Users\vikto\coding\ProgressBar\bin\Debug\netcoreapp2.2\ProgressBar.runtimeconfig.dev.json
+C:\Users\vikto\coding\ProgressBar\bin\Debug\netcoreapp2.2\ProgressBar.dll
+C:\Users\vikto\coding\ProgressBar\bin\Debug\netcoreapp2.2\ProgressBar.pdb
+C:\Users\vikto\coding\ProgressBar\obj\Debug\netcoreapp2.2\ProgressBar.csprojAssemblyReference.cache
+C:\Users\vikto\coding\ProgressBar\obj\Debug\netcoreapp2.2\ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\vikto\coding\ProgressBar\obj\Debug\netcoreapp2.2\ProgressBar.AssemblyInfoInputs.cache
+C:\Users\vikto\coding\ProgressBar\obj\Debug\netcoreapp2.2\ProgressBar.AssemblyInfo.cs
+C:\Users\vikto\coding\ProgressBar\obj\Debug\netcoreapp2.2\ProgressBar.dll
+C:\Users\vikto\coding\ProgressBar\obj\Debug\netcoreapp2.2\ProgressBar.pdb
